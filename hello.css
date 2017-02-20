@@ -1,0 +1,36 @@
+h1 {
+  color: #0078a3;
+  /*WEBカラーコード 六桁からなる色の番号*/
+  background-color: #808080;
+  margin-left: 100px;
+  font-size: 10px;
+}
+
+/*
+  セレクタの種類
+  ①タグ名
+  ②id名
+  ③class名
+*/
+
+/* idセレクタの指定 */
+#top_content {
+  color: #0080FF;
+}
+
+/* classセレクタの指定 */
+.small_blue {
+  color: #0000FF;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
